@@ -25,7 +25,7 @@ class script(object):
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
-<b>Commands and Usage:</b>
+<b>Commands and Their Usage:</b>
 • /filter - <code>add a filter in chat</code>
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
